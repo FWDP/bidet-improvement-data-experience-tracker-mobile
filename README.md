@@ -48,4 +48,4 @@ This project is under the "No Stinkers Allowed" license. Use it wisely, and reme
 
 Happy "Pooping" and Happy Holidays! 🚽🎉
 
-![B.I.D.E.T Logo](./static/bidet-logo.png)
+![B.I.D.E.T Logo](./bidet-logo.png)
